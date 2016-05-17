@@ -2,6 +2,8 @@
 
 This is a [demo](http://mohamedhayibor.github.io/check-question-site/) site. The main goal is to prompt any user to ask better questions.
 
+![](http://res.cloudinary.com/masteryoperation/image/upload/v1463504056/Screen_Shot_2016-05-17_at_12.52.59_PM_ebvulv.png)
+
 ## Raison d'être
 
 Everybody becomes happy with better questions. They yield better answers and just makes the internet (world) better. :sunglasses:
