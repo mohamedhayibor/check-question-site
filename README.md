@@ -1,6 +1,6 @@
-# check-question ![](https://img.shields.io/badge/status-stable-green.svg)
+# [check-question](http://mohamedhayibor.github.io/check-question-site/) ![](https://img.shields.io/badge/status-stable-green.svg)
 
-This is a demo site. The main goal is to prompt any user to ask better questions.
+This is a [demo](http://mohamedhayibor.github.io/check-question-site/) site. The main goal is to prompt any user to ask better questions.
 
 ## Raison d'être
 
